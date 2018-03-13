@@ -1,4 +1,4 @@
-![alt text](https://github.com/Bilistic/ScrummyBears/blob/master/ScrummyBearsLogo.png)
+[logo]: https://github.com/Bilistic/ScrummyBears/blob/master/ScrummyBearsLogo.png "Logo Title Text 2"
 
 **Name:**
 
