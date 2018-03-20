@@ -1,5 +1,9 @@
-Celsius = int(raw_input("Enter Celsius: "))
+def CtoF(C):
+    Fahrenheit = 9.0 / 5.0 * C + 32
+    return Fahrenheit
 
-Fahrenheit = 9.0/5.0 * Celsius + 32
+def main():
+    Celsius = int(raw_input("Enter Celsius: "))
+    print CtoF(Celsius)
 
-print Celsius, "Celsius = ", Fahrenheit, " F"
+if __name__ =='__main__':main()
